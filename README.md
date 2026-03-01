@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Zvonimir 👋
 
-<!--
-**zvonimir-kilic/zvonimir-kilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at FER Zagreb, currently interning in .NET web development. 
+I enjoy building things across web, AI, and game development.
 
-Here are some ideas to get you started:
+## 🌐 Web Development
+> Projects coming soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI & Machine Learning
+> Projects coming soon
+
+## 🎮 Games
+> Projects coming soon
+
+## 🔢 Algorithms
+> Projects coming soon
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/zvonimir-kilic)
