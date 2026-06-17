@@ -1,19 +1,11 @@
 # Hi, I'm Zvonimir 👋
 
-I'm a Computer Science student at FER Zagreb, currently interning in .NET web development. 
-I enjoy building things across web, AI, and game development.
-
-## 🌐 Web Development
-> Projects coming soon
-
-## 🤖 AI & Machine Learning
-> Projects coming soon
+I'm a Computer Science student at FER Zagreb, currently interning in .NET web development. I enjoy building things across web, AI, and game development.
 
 ## 🎮 Games
-> Projects coming soon
 
-## 🔢 Algorithms
-> Projects coming soon
+[![Stinger Guardian](https://github-readme-stats.vercel.app/api/pin/?username=zvonimir-kilic&repo=stinger-guardian&theme=dark)](https://github.com/zvonimir-kilic/stinger-guardian)
 
 ## Connect
+
 - [LinkedIn](https://linkedin.com/in/zvonimir-kilic)
