@@ -4,11 +4,13 @@ I'm a Computer Science student at FER Zagreb with experience in .NET web develop
 
 ## 🎮 Games
 
-[![Stinger Guardian](https://github-readme-stats.vercel.app/api/pin/?username=zvonimir-kilic&repo=stinger-guardian&theme=dark)](https://github.com/zvonimir-kilic/stinger-guardian)
+**[Stinger Guardian](https://github.com/zvonimir-kilic/stinger-guardian)**  
+Early prototype of an action game where you play as a soldier with a Stinger missile launcher shooting down enemy aircraft. One mission and 1v1 LAN multiplayer.
 
 ## 🤖 AI & Machine Learning
 
-[![Autonomous Drone RL](https://github-readme-stats.vercel.app/api/pin/?username=zvonimir-kilic&repo=autonomous-drone-rl&theme=dark)](https://github.com/zvonimir-kilic/autonomous-drone-rl)
+**[Autonomous Drone RL](https://github.com/zvonimir-kilic/autonomous-drone-rl)**  
+Hybrid autonomous drone navigation combining PID control, reinforcement learning and A* path planning, evaluated in Unity ML-Agents.
 
 ## Connect
 
